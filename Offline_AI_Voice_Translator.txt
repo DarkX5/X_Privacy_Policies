@@ -1,0 +1,25 @@
+Privacy Policy for [Your Game Name]
+
+Effective Date: [Date]
+
+This Privacy Policy describes how Offline_AI_Voice_Translator ("we," "us," or "our") collects, uses, and safeguards the personal information and audio recordings obtained through our game. By using our game, you agree to the collection and use of your personal information as described in this policy.
+
+Information We Collect
+1.1 Audio Recordings:
+
+Offline_AI_Voice_Translator may record audio within the game for the purpose of providing an english translation of the recorded audio.
+We do not transmit or store audio recordings externally or share them with third parties.
+All audio recordings are processed and used solely within the game.
+Use of Information
+2.1 Audio Recordings:
+
+Audio recordings captured within the game are used exclusively for the purpose of providing an english translation of the recorded audio.
+We do not use audio recordings for any other purposes, such as targeted advertising or profiling.
+Data Security
+3.1 We take reasonable measures to protect the personal information and audio recordings collected through our game from unauthorized access, alteration, or disclosure.
+
+Changes to this Privacy Policy
+4.1 We reserve the right to modify or update this Privacy Policy at any time. We will notify you of any changes through app notifications.
+
+Contact Us
+5.1 If you have any questions or concerns regarding this Privacy Policy or our data practices, please contact us at x.games.contactus@gmail.com .
